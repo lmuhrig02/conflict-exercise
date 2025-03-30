@@ -1,3 +1,3 @@
 # conflict-exercise
 lorem ipsum
-Este es un cambio en la main branch. 
+Esto es una resolución de confliencto entre la main branch y la feature branch. 
